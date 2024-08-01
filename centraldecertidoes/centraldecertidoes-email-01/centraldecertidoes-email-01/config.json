@@ -1,0 +1,7 @@
+{
+  "name": "Central de Certidões - Email 01",
+  "author": "Bluweb Team",
+  "authorUrl": "https://bluweb.cc/",
+  "builder": ["grapesjsbuilder"],
+  "features": ["email"]
+}
